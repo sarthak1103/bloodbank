@@ -1,1 +1,1 @@
-web: gunicorn bbms.wsgi
+web: gunicorn BBMS.wsgi
